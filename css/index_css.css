@@ -1,0 +1,12 @@
+html,body{
+    height: 100%;
+    margin: 0;
+}
+#main_content{
+    display: block;
+    height: 100%;
+}
+
+#full_height{   
+    height: 100%;
+}
